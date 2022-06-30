@@ -1,7 +1,8 @@
 "# -MuhammadHamza---Khan-" 
 Android (Task 1)
 Priority = High
-1.Verify app install,uninstall,look & feel and launching of application on multiple devices and platforms.
+
+1.Verify app install,uninstall,look & feel and launching of application on multiple devices and platforms
 2.Verify Swipe Up(and tap on Balance Button)for balance summary based upon selected Day/Week/Month/Year/Date
 3.Verify Swipe from Center to Left/Right shall navigate to Balance Pie Chart based upon selected Day/Week/Month/Year/Date
 4.Verify Swipe from Left/Right to Center shall open Left/Right panel respectively.
