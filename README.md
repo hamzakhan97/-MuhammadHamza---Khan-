@@ -70,4 +70,5 @@ Priority = Low
 8.Verify "Review Application" option shall redirect to Google Play and Apple Store for respective applications.
 
  What bugs were discovered? 
+ 
  Ans: I don't find any bug on android app
